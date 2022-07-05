@@ -1,0 +1,39 @@
+@import '/styles/normalize.css';
+
+@import './blocks/page/page.css';
+
+@import './blocks/logo/logo.css';
+
+@import './blocks/header/header.css';
+@import './rotation/rotation.css';
+@import './rotation/square-pic_rotation.css';
+@import './blocks/logo/_place-header/logo_place-header.css';
+
+@import './blocks/content/section/section-title/section-title.css';
+@import './blocks/content/section/section-subtitle/section-subtitle.css';
+
+@import './blocks/content/description/description.css';
+
+@import './blocks/content/techniques/techniques.css';
+
+@import './blocks/content/digits/digits.css';
+@import './blocks/content/table/table.css';
+@import './blocks/content/table/__cell/table__cell.css';
+@import './blocks/content/table/__heading/table__heading.css';
+@import './blocks/content/table/__text/table__text.css';
+
+@import './blocks/content/kaufman/kaufman.css';
+@import './blocks/content/section/section-title/_theme_dark/section-title_theme_dark.css';
+@import './blocks/content/section/section-subtitle/_theme_dark/section-subtitle_theme_dark.css';
+@import './blocks/content/table/table_theme_dark.css';
+@import './blocks/content/table/__cell/_theme_dark/table_cell_theme_dark.css';
+@import './blocks/content/table/__heading/_theme_dark/table__heading_theme_dark.css';
+@import './blocks/content/table/__text/_theme_dark/table__text_theme_dark.css';
+
+@import './blocks/content/resources/resources.css';
+@import './blocks/content/resources/__logo/resources__logo.css';
+@import './blocks/logo/resources/resources_logos.css';
+
+@import './blocks/footer/footer.css';
+@import './blocks/footer/__column/footer__column.css';
+@import './blocks/logo/_place-footer/logo_place-footer.css';
