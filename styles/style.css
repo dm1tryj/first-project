@@ -5,16 +5,21 @@
 @import './blocks/logo/logo.css';
 
 @import './blocks/header/header.css';
-@import './rotation/rotation.css';
-@import './rotation/square-pic_rotation.css';
+@import './blocks/rotation/rotation.css;';
+@import './blocks/rotation/square-pic_rotation.css';
 @import './blocks/logo/_place-header/logo_place-header.css';
 
 @import './blocks/content/section/section-title/section-title.css';
 @import './blocks/content/section/section-subtitle/section-subtitle.css';
 
 @import './blocks/content/description/description.css';
+@import './blocks/content/two-columns/two-columns.css';
 
 @import './blocks/content/techniques/techniques.css';
+
+@import './blocks/content/video/video.css';
+@import './blocks/content/video/__iframes/video__iframes.css';
+@import './blocks/content/video/__iframe/video__iframe.css';
 
 @import './blocks/content/digits/digits.css';
 @import './blocks/content/table/table.css';
